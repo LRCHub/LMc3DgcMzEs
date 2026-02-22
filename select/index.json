@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Where do we go now?",
+  "base_artist": "Gracie Abrams",
+  "createdAt": "2026-02-22T20:10:40.862714Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Where do we go now?",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/01_Where_do_we_go_now_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Where do we go now?",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/02_Where_do_we_go_now_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Where Do We Go Now",
+      "artist": "Hoodie Allen",
+      "has_synced": false,
+      "path": "select/03_Where_Do_We_Go_Now_Hoodie_Allen.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ikari (Where Do We Go Now)",
+      "artist": "Captain Capa",
+      "has_synced": true,
+      "path": "select/04_Ikari_(Where_Do_We_Go_Now)_Captain_Capa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Where do we go now?",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/05_Where_do_we_go_now_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Where Do We Go Now",
+      "artist": "Freaky Age",
+      "has_synced": false,
+      "path": "select/06_Where_Do_We_Go_Now_Freaky_Age.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Where Do We Go Now",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/07_Where_Do_We_Go_Now_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Where do we go now?",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/08_Where_do_we_go_now_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Where Do We Go Now",
+      "artist": "Freaky Age",
+      "has_synced": false,
+      "path": "select/09_Where_Do_We_Go_Now_Freaky_Age.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where Do We Go Now",
+      "artist": "People On Vacation",
+      "has_synced": false,
+      "path": "select/10_Where_Do_We_Go_Now_People_On_Vacation.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Where do we go now? (Official Music Video)",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/11_Where_do_we_go_now__(Official_Music_Video)_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Where do we go now? (Original Mix)",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/12_Where_do_we_go_now__(Original_Mix)_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Where Do We Go Now But Nowherer?",
+      "artist": "Nick Cave",
+      "has_synced": true,
+      "path": "select/13_Where_Do_We_Go_Now_But_Nowherer_Nick_Cave.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Where do we go now?",
+      "artist": "Gracie Abrams",
+      "has_synced": false,
+      "path": "select/pl_01_Where_do_we_go_now_Gracie_Abrams.txt"
+    }
+  ]
+}
