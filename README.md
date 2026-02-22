@@ -1,0 +1,75 @@
+# Gracie Abrams – Where do we go now?
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.55] 24th Street
+[00:08.85] Where you held me, grabbed my arm
+[00:15.37] What a mental fire alarm
+[00:21.62] 'Cause a lot of that felt wrong
+[00:37.12] 
+[00:31.01] Like I miss you
+[00:34.11] But when I kissed you back, I lied
+[00:40.84] You don't know how hard I tried
+[00:47.06] Had to fake the longest time
+[01:01.06] 
+[00:55.72] Where do we go now?
+[00:59.02] Where do we go now?
+[01:02.03] Where do we go now?
+[01:05.41] Where do we go now?
+[01:14.91] 
+[01:08.48] Where do we go now?
+[01:11.62] Where do we go now?
+[01:14.83] Where do we go now?
+[01:18.23] Where do we go now?
+[01:27.73] 
+[01:22.18] You look hopeful
+[01:25.15] Like we're supposed to work somehow
+[01:31.59] Can't you tell our light burned out?
+[01:37.94] Got a lot to cry about
+[01:48.94] 
+[01:46.99] There's nothin' left here
+[01:50.67] All our best years are behind
+[01:56.98] What a brutal way to die
+[02:03.38] But you choose it every time
+[02:17.38] 
+[02:11.80] So, where do we go now?
+[02:15.43] Where do we go now?
+[02:18.57] Where do we go now?
+[02:21.56] Where do we go now?
+[02:31.06] 
+[02:24.96] Where do we go now?
+[02:28.01] Where do we go now?
+[02:31.14] Where do we go now?
+[02:34.32] Where do we go now?
+[02:43.82] 
+[02:37.48] We could meet down the line
+[02:40.71] After all of the time, and
+[02:43.76] Give an actual try
+[02:46.98] I can't promise you'll like it
+[03:01.98] 
+[02:50.13] I know I changed overnight
+[02:53.19] So I can't blame you for fightin'
+[02:56.45] And I'd be losin' my mind
+[02:59.86] If you lived in your writin'
+[03:13.86] 
+[03:04.11] 'Cause now I'm half of myself here without you
+[03:08.08] You're the best in my life and I lost you
+[03:11.37] And we had no control when it fell through
+[03:14.59] It was one-sided, hate how I hurt you
+[03:33.09] 
+[03:17.71] If I could, I'd have changed every feelin'
+[03:20.70] Reservations were up to the ceilin'
+[03:23.92] Guess the space was the thing that I needed
+[03:27.19] But I miss you
+[03:34.19] 
+[03:28.26] Where do we go now?
+[03:31.32] Where do we go now?
+[03:34.63] Where do we go now?
+[03:37.95] Where do we go now?
+[03:47.45] 
+[03:41.30] Where do we go now?
+[03:44.41] Where do we go now?
+[03:47.54] Where do we go now?
+[03:50.70] Where do we go now?
+```
